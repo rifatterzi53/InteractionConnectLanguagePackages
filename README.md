@@ -1,5 +1,7 @@
 # Interaction Connect Language Packages
 
+Includes the following languages:
+
 1) ar
 2) de
 3) en
